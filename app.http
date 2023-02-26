@@ -1,0 +1,8 @@
+get  http://localhost:3001/players/
+
+#####
+
+post http://localhost:3001/players/
+
+########
+get http://localhost:3001/players/:playedId/
